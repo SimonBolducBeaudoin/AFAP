@@ -28,9 +28,6 @@
 [submodule "Benchmark"]
 	path = Benchmark
 	url = https://github.com/SimonBolducBeaudoin/Benchmark.git
-[submodule "Histograms_BENCHMARK"]
-	path = Histograms_BENCHMARK
-	url = https://github.com/SimonBolducBeaudoin/Histograms_BENCHMARK.git
 [submodule "ON_ICE"]
 	path = ON_ICE
 	url = https://github.com/SimonBolducBeaudoin/ON_ICE.git
