@@ -37,3 +37,6 @@
 [submodule "Windowing"]
 	path = Windowing
 	url = https://github.com/SimonBolducBeaudoin/Windowing.git
+[submodule "AutoGitVersion"]
+	path = AutoGitVersion
+	url = https://github.com/SimonBolducBeaudoin/AutoGitVersion.git
