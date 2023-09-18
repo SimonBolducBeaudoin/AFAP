@@ -22,12 +22,3 @@
 [submodule "Time_quadratures"]
 	path = Time_quadratures
 	url = https://github.com/SimonBolducBeaudoin/Time_quadratures.git
-[submodule "Benchmark"]
-	path = Benchmark
-	url = https://github.com/SimonBolducBeaudoin/Benchmark.git
-[submodule "ON_ICE"]
-	path = ON_ICE
-	url = https://github.com/SimonBolducBeaudoin/ON_ICE.git
-[submodule "AutoGitVersion"]
-	path = AutoGitVersion
-	url = https://github.com/SimonBolducBeaudoin/AutoGitVersion.git
