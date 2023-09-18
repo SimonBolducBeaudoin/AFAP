@@ -1,0 +1,24 @@
+[submodule "aCorrs-OTF"]
+	path = aCorrs-OTF
+	url = https://github.com/SimonBolducBeaudoin/aCorrs-OTF.git
+[submodule "FFTW_extra"]
+	path = FFTW_extra
+	url = https://github.com/SimonBolducBeaudoin/FFTW_extra.git
+[submodule "Histograms"]
+	path = Histograms
+	url = https://github.com/SimonBolducBeaudoin/Histograms.git
+[submodule "Math_extra"]
+	path = Math_extra
+	url = https://github.com/SimonBolducBeaudoin/Math_extra.git
+[submodule "Moments_cumulants"]
+	path = Moments_cumulants
+	url = https://github.com/SimonBolducBeaudoin/Moments_cumulants.git
+[submodule "Multi_array"]
+	path = Multi_array
+	url = https://github.com/SimonBolducBeaudoin/Multi_array.git
+[submodule "Omp_extra"]
+	path = Omp_extra
+	url = https://github.com/SimonBolducBeaudoin/Omp_extra.git
+[submodule "Time_quadratures"]
+	path = Time_quadratures
+	url = https://github.com/SimonBolducBeaudoin/Time_quadratures.git

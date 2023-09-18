@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#Folders
+build
+AutoGitVersion
+Benchmark
+ON_ICE
