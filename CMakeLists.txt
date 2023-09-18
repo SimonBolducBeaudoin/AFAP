@@ -7,8 +7,6 @@ project(AFAP ) # Needs to be ontop
 
 message(STATUS "Building the base modules")
 
-add_subdirectory(Windowing)
-add_subdirectory(Special_functions)
 add_subdirectory(Math_extra)
 add_subdirectory(Omp_extra)
 
