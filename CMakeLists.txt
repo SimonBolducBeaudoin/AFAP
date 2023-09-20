@@ -12,7 +12,6 @@ add_subdirectory(Omp_extra)
 
 add_subdirectory(aCorrs-OTF)
 add_subdirectory(FFTW_extra)
-add_subdirectory(Moments_cumulants)
 add_subdirectory(Multi_array)
 add_subdirectory(Time_quadratures)
 add_subdirectory(Histograms)
