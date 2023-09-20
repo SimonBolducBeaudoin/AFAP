@@ -25,3 +25,6 @@
 [submodule "ON_ICE"]
 	path = ON_ICE
 	url = https://github.com/SimonBolducBeaudoin/ON_ICE.git
+[submodule "CMakeConfigs"]
+	path = CMakeConfigs
+	url = https://github.com/SimonBolducBeaudoin/CMakeConfigs.git
